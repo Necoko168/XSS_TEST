@@ -3,3 +3,12 @@
 
 
 ?>
+<html>
+    <head>
+        <title>XSS_TEST</title>
+    </head>
+    <body>
+        test 
+    </body> 
+</html>
+
